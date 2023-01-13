@@ -51,5 +51,7 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+  <key>Privacy - Camera Usage Description</key>
+  <string>MyCamera requer acesso à câmera do seu telefone.</string>
 </dict>
 </plist>
